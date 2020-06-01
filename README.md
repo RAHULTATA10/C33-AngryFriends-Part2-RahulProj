@@ -1,4 +1,4 @@
 # AngryBirdsStage7
-This is Rahul Tata's project C32 - Angry Friends
+This is Rahul Tata's project C33 - Angry Friends Part2
 I created this program using # AngryBirdsStage7.
-I created invisble grounds for furniture and 2nd 3rd and 4th boys
+I created another slingshot.
